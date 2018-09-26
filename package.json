@@ -1,0 +1,7 @@
+{
+  "name": "npm-confkey-test",
+  "version": "0.0.0",
+  "dependencies": {
+    "lib": "file:lib-0.0.0.tgz"
+  }
+}
